@@ -1,6 +1,6 @@
-648f44816c8860ef374a331da64373c4 *DESCRIPTION
+1c8bf1c0cb43c8f993ac12294c4ffe2b *DESCRIPTION
 56a06d183c1b00c4c573a55bca60385f *NAMESPACE
-8cd5281a7ad9d352e0d3db1bb85ef2aa *NEWS.md
+1e006e8599c9b2857ece765c91403d16 *NEWS.md
 111b446cfcc77ca8c62173b4149fc11c *R/MVSK.R
 37aa39c45df83d1ec57f1108394ef70a *R/MVSK_skew_t.R
 6b8ddbbbffcea0ba130bffa71cba2b50 *R/MVSKtilting.R
@@ -8,14 +8,14 @@
 56a21a35d623adfb09523a7ffab04d38 *R/X200.R
 243d2b481662bc18f8de373e1f0d79e5 *R/X50.R
 71f8e1ee9d4a0ec881e569574a5a22e7 *R/auxiliary.R
-6472229d64c3e3e3f3dfec7537aaae45 *R/highOrderPortfolios-package.R
+badc2910cd318ab1362ec233be2c41c8 *R/highOrderPortfolios-package.R
 558ca3c3ff8a41ca2809acd2cc5342ee *R/utilities.R
-28d0602203fa15842e013d9d6fc9b0e4 *README.md
+5d6fd4041197a5cdb51e9d777d6114b9 *README.md
 e67a57e14cae1c7c395a8c118d8d0ad9 *build/vignette.rds
 0c43e30d981d858a23e86a9fe103cd47 *data/X100.RData
 de96956066cbbe2d6727a234b2dc95c9 *data/X200.RData
 c3bfa0efcf402afbf390daf5b8493474 *data/X50.RData
-385f896268bbf5ef38a9518041ddff41 *inst/CITATION
+0350acc0560cb3fc2c19d85ed63af434 *inst/CITATION
 afa4dded2d01a9970a5c7379d5798928 *inst/doc/DesignOfHighOrderPortfolios.html
 037a0b4ef533989d53e6b0470bb48975 *inst/doc/DesignOfHighOrderPortfolios.html.asis
 c589cb109a1e76abf299c0077aaeba83 *man/X100.Rd
@@ -27,7 +27,7 @@ d0878ccdf18c686c7d776d7994c7fea5 *man/design_MVSKtilting_portfolio_via_sample_mo
 5b4c5f17fabd49190e7db7e67fb8d1f2 *man/estimate_sample_moments.Rd
 aa3a68da016c00e54cd89232d766a64c *man/estimate_skew_t.Rd
 53892aa5f3419f06f95324959417d4e0 *man/eval_portfolio_moments.Rd
-52bc8665672379e4d7e21cbd6a574107 *man/figures/README-unnamed-chunk-5-1.png
+766968a3a8d47aa468170683099b82f5 *man/figures/README-unnamed-chunk-5-1.png
 7c91df06025eb44d313173b618420740 *man/figures/README-unnamed-chunk-5-2.png
 63bd27e71b03ccd072f84fc587ab1205 *man/highOrderPortfolios-package.Rd
 e4de003c13ae95d45b0c05a67c24fa44 *src/PerformanceAnalytics_copy.c

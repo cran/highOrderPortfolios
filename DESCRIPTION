@@ -1,7 +1,7 @@
 Package: highOrderPortfolios
 Title: Design of High-Order Portfolios Including Skewness and Kurtosis
-Version: 0.0.2
-Date: 2022-10-07
+Version: 0.1.0
+Date: 2022-10-19
 Description: The classical Markowitz's mean-variance portfolio formulation ignores 
     heavy tails and skewness. High-order portfolios use higher order moments to
     better characterize the return distribution. Different formulations and fast 
@@ -26,15 +26,15 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.1
 Imports: ECOSolveR, lpSolveAPI, nloptr, PerformanceAnalytics, quadprog,
-        fitHeavyTail, stats, utils
+        fitHeavyTail (>= 0.1.4), stats, utils
 Suggests: knitr, ggplot2, rmarkdown, R.rsp, testthat (>= 3.0.0)
 VignetteBuilder: knitr, rmarkdown, R.rsp
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2022-10-10 08:00:39 UTC; palomar
+Packaged: 2022-10-19 03:17:00 UTC; palomar
 Author: Daniel P. Palomar [cre, aut],
   Rui Zhou [aut],
   Xiwen Wang [aut]
 Depends: R (>= 2.10)
 Repository: CRAN
-Date/Publication: 2022-10-11 06:12:33 UTC
+Date/Publication: 2022-10-19 07:45:07 UTC

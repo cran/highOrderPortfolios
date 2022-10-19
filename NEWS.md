@@ -1,3 +1,10 @@
+## Changes in portfolioBacktest version 0.1.0 (2022-10-19)
+
+* Specify in DESCRIPTION that fitHeavyTail (>= 0.1.4) is required, just to be safe.
+
+* Some links updated.
+
+
 ## Changes in portfolioBacktest version 0.0.2 (2022-10-07)
 
 * References revised.
