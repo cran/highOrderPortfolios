@@ -1,4 +1,4 @@
-1c8bf1c0cb43c8f993ac12294c4ffe2b *DESCRIPTION
+7973b347578c571416558c07fe303889 *DESCRIPTION
 56a06d183c1b00c4c573a55bca60385f *NAMESPACE
 1e006e8599c9b2857ece765c91403d16 *NEWS.md
 111b446cfcc77ca8c62173b4149fc11c *R/MVSK.R
@@ -12,8 +12,8 @@ badc2910cd318ab1362ec233be2c41c8 *R/highOrderPortfolios-package.R
 558ca3c3ff8a41ca2809acd2cc5342ee *R/utilities.R
 5d6fd4041197a5cdb51e9d777d6114b9 *README.md
 e67a57e14cae1c7c395a8c118d8d0ad9 *build/vignette.rds
-0c43e30d981d858a23e86a9fe103cd47 *data/X100.RData
-de96956066cbbe2d6727a234b2dc95c9 *data/X200.RData
+0ebfc76330fdcc2ef674df7790f6d415 *data/X100.RData
+1209d5a76b2d4811311a5b374e02e9d3 *data/X200.RData
 c3bfa0efcf402afbf390daf5b8493474 *data/X50.RData
 0350acc0560cb3fc2c19d85ed63af434 *inst/CITATION
 afa4dded2d01a9970a5c7379d5798928 *inst/doc/DesignOfHighOrderPortfolios.html
@@ -43,7 +43,7 @@ e436dae88f7335923c830ca5cf3ecd4d *tests/testthat/sol_MVSK_DC_check.RData
 b270a9a4ebe999978ddbe09c79b8901f *tests/testthat/sol_MVSKtilting_LMVSKT_check.RData
 c723e1229cd9e38eec5be9f4fa39816f *tests/testthat/sol_MVSKtilting_QMVSKT_check.RData
 b3839711d936bdd329756f37390647e3 *tests/testthat/test-MVSK-and-MVSK-tilting-via-sample-moments.R
-07039800ea979da185e950cd0a1282d6 *tests/testthat/test-MVSK_via_skew_t.R
+7e9e3bb06c2549a28d749a0d68d92ec3 *tests/testthat/test-MVSK_via_skew_t-inactive.R
 d46173bc1d0f50b0adfe1612a5185059 *tests/testthat/test-embeddedDataset.R
 0c8d16650f953d5534e3aa3cf0b9bcdd *tests/testthat/test-estimate-skew-t.R
 4aec18ed5cbdf20e930d48108a361d26 *tests/testthat/test-sample-moments.R
